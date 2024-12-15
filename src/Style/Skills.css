@@ -1,0 +1,27 @@
+.skills h1 {
+  text-align: center;
+  color: white;
+  font-family: "Fredericka the Great", serif;
+  margin: 5px 0px 5px 0px;
+}
+.card {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+#knob {
+  display: inline-block;
+  /* padding-top: 5px; */
+  /* border-radius: 20%; */
+  /* animation: anim 2s linear forwards; */
+}
+.card h4 {
+  color: whitesmoke;
+  font-family: "Playpen Sans", cursive;
+}
+.bars {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,32 @@
+/* #projects{
+  fddvff
+} */
+.h1 {
+  font-family: "Fredericka the Great", serif;
+  color: white;
+  text-align: center;
+}
+.pro:hover {
+  transition: 1s;
+  opacity: 0.8;
+}
+.discribe h3 {
+  color: gold;
+  font-family: "Playpen Sans", cursive;
+}
+.discribe p {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.card {
+  color: white;
+  display: flex;
+}
+.card-image {
+  max-width: 350px;
+  max-height: 300px;
+}
+.card-header {
+  font-family: "Playpen Sans", cursive;
+  color: gold;
+}

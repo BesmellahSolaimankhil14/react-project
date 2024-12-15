@@ -1,0 +1,19 @@
+.footer p {
+  text-align: center;
+  margin: auto;
+  width: max-content;
+  color: whitesmoke;
+  font-size: small;
+}
+/* .foot-icons {
+} */
+.foot-icon {
+  background-color: gold;
+  align-content: center;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 100%;
+  display: inline-block;
+  font-size: x-large;
+}

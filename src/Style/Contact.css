@@ -1,0 +1,36 @@
+.h1 {
+  font-family: "Fredericka the Great", serif;
+  color: white;
+  text-align: center;
+}
+.contact h4 {
+  color: gold;
+  font-family: "Playpen Sans", cursive;
+}
+.contact p {
+  width: 85%;
+  line-height: 2;
+}
+.icons {
+  color: gold;
+  margin-right: 5px;
+  font-size: larger;
+}
+.label {
+  font-family: "Playpen Sans", cursive;
+  color: gold;
+  margin: 10px 0px;
+}
+.form-control {
+  background-color: #080f18;
+  color: whitesmoke;
+  border: 1px dashed whitesmoke;
+}
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.6s ease-in-out;
+}
+
+.fade-in.appear {
+  opacity: 1;
+}
